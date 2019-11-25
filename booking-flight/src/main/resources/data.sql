@@ -1,0 +1,7 @@
+INSERT INTO flight (CODE, INIT_DATE, END_DATE, SOURCE, DESTINY, PRICE) VALUES ('AV368', TO_DATE('2019/11/25 14:02', 'yyyy/mm/dd hh24:mi'),  TO_DATE('2019/11/25 17:32', 'yyyy/mm/dd hh24:mi'), 'Bogota', 'Miami', 700000);
+INSERT INTO flight (CODE, INIT_DATE, END_DATE, SOURCE, DESTINY, PRICE) VALUES ('AV1882', TO_DATE('2019/11/25 08:02', 'yyyy/mm/dd hh24:mi'),  TO_DATE('2019/11/25 09:32', 'yyyy/mm/dd hh24:mi'), 'Bogota', 'Medellin', 90000);
+INSERT INTO flight (CODE, INIT_DATE, END_DATE, SOURCE, DESTINY, PRICE) VALUES ('AV189', TO_DATE('2019/11/25 13:22', 'yyyy/mm/dd hh24:mi'),  TO_DATE('2019/11/25 14:32', 'yyyy/mm/dd hh24:mi'), 'Medellin', 'Bogota', 90000);
+INSERT INTO flight (CODE, INIT_DATE, END_DATE, SOURCE, DESTINY, PRICE) VALUES ('AV1832', TO_DATE('2019/11/27 08:02', 'yyyy/mm/dd hh24:mi'),  TO_DATE('2019/11/27 09:32', 'yyyy/mm/dd hh24:mi'), 'Bogota', 'Medellin', 90000);
+INSERT INTO flight (CODE, INIT_DATE, END_DATE, SOURCE, DESTINY, PRICE) VALUES ('AV983', TO_DATE('2019/11/26 09:22', 'yyyy/mm/dd hh24:mi'),  TO_DATE('2019/11/26 10:32', 'yyyy/mm/dd hh24:mi'), 'Medellin', 'Bogota', 90000);
+INSERT INTO flight (CODE, INIT_DATE, END_DATE, SOURCE, DESTINY, PRICE) VALUES ('AV9838', TO_DATE('2019/11/26 13:22', 'yyyy/mm/dd hh24:mi'),  TO_DATE('2019/11/26 18:05', 'yyyy/mm/dd hh24:mi'), 'Bogota', 'Medellin', 90000);
+INSERT INTO flight (CODE, INIT_DATE, END_DATE, SOURCE, DESTINY, PRICE) VALUES ('AV9838', TO_DATE('2019/11/30 13:22', 'yyyy/mm/dd hh24:mi'),  TO_DATE('2019/11/30 18:05', 'yyyy/mm/dd hh24:mi'), 'Bogota', 'Medellin', 90000);
